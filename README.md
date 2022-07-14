@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosikowy&label=Profile%20views&color=32b40e&style=plastic" alt="cosikowy" /> </p>
 
-- 🔭 I’m currently working on [Localhost Academy as Python Mentor](localhost.pl)
+- 🔭 I’m currently working with [Localhost Academy as Python Mentor](localhost.pl)
 
 - 🌱 I’m currently learning **GraphQL**
 
