@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleks aka Cosikowy</h1>
-<h3 align="center">I am openminded python developer</h3>
+<h3 align="center">I am open minded python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosikowy&label=Profile%20views&color=32b40e&style=plastic" alt="cosikowy" /> </p>
 
