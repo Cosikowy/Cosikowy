@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with [Localhost Academy as Python Mentor](localhost.pl)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently Working with **Django** and **GraphQL**
 
 - 💬 Ask me about **Python and Django**
 
