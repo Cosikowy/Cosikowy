@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosikowy&label=Profile%20views&color=32b40e&style=plastic" alt="cosikowy" /> </p>
 
-- 🔭 Python Mentor, teaching new padawas the way of programming
+- 🔭 Python Mentor, teaching new padawans the way of programming
 
 - 🌱 I’m currently working with **Django** and **Django Rest Framework** on backend and **Angular** on frontend
 
