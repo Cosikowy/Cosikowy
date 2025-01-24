@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosikowy&label=Profile%20views&color=32b40e&style=plastic" alt="cosikowy" /> </p>
 
-- 🔭 I’m currently working with [Localhost Academy as Python Mentor](https://www.localhost-academy.online/)
+- 🔭 Python Mentor, teaching new padawas the way of programming
 
-- 🌱 I’m currently Working with **Django** and **Django Rest Framework**
+- 🌱 I’m currently working with **Django** and **Django Rest Framework** on backend and **Angular** on frontend
 
 - 💬 Ask me about **Python and Django**
 
